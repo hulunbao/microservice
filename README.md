@@ -18,3 +18,6 @@
 # 用户edgeservice
 # 课程edgeservice
 # API GATEWAY
+
+# 架构图
+![image](https://github.com/hulunbao/microservice/scheme.png)
