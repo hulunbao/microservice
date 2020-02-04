@@ -20,4 +20,4 @@
 # API GATEWAY
 
 # 架构图
-![image](https://github.com/hulunbao/microservice/scheme.png)
+![image](https://github.com/hulunbao/microservice/blob/master/scheme.png)
