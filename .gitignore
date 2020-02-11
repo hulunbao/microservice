@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Java template
+
+# config file
+*.iml
+.idea/
+
+# output file
+message-thrift-service-api/target
+user-edge-service/target
+user-thrift-service/target
+user-thrift-service-api/target
